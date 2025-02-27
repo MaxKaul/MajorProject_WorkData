@@ -1,0 +1,15 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+using UnrealBuildTool;
+
+public class Bachelor_Test_Env : ModuleRules
+{
+	public Bachelor_Test_Env(ReadOnlyTargetRules Target) : base(Target)
+	{
+		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "NavigationSystem", "AIModule", "Niagara", "EnhancedInput" /*,"CurveAssetEditor"*/, /*"CurveEditor", "CurveTableEditor",*/ "UMG"});
+
+        OptimizeCode = CodeOptimization.Never;
+	}
+}

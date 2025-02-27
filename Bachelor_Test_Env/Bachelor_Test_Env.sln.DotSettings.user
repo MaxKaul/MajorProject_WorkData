@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6df5521a_002D9e58_002D4ff5_002D97bf_002D19db804d7356/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6df5521a_002D9e58_002D4ff5_002D97bf_002D19db804d7356/Coords/@EntryValue">(Doc Ln 201 Col 0)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6df5521a_002D9e58_002D4ff5_002D97bf_002D19db804d7356/FileId/@EntryValue">F9E50A42-1A7F-35B9-8435-A72FF05AAF13/dl:Source:..?..?Source/d:Bachelor_Test_Env/f:DebugDataManager.h</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=6df5521a_002D9e58_002D4ff5_002D97bf_002D19db804d7356/Owner/@EntryValue">AnonymousBookmarkManager</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/Coords/@EntryValue">(Doc Ln 708 Col 1)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/FileId/@EntryValue">98D18344-CF89-324B-A547-39D6052AFC08/dl:Source:..?..?Source/d:Bachelor_Test_Env/f:MarketPredictionSystem.cpp</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/Owner/@EntryValue">NumberedBookmarkManager</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,56 @@
+Observation to both
+------------------------------------------------------
+
+A:
+
+WITHOUT FOREX 20 SAMPLES
+
+End Values:
+Stone	: 408
+Water	: 504
+Wood	: 562
+
+Avrg:
+Stone	: 234
+Water	: 265
+Wood	: 280
+
+------------------------------------------------------
+
+B:
+
+WITH FOREX 20 SAMPLES
+
+End Values:
+Stone	: 648
+Water	: 875
+Wood	: 748
+
+Avrg:
+Stone	: 422
+Water	: 487
+Wood	: 435
+
+------------------------------------------------------
+
+C:
+
+WITH FOREX 40 SAMPLES
+ADDED PROOF SET TO THE REGUALR
+
+End Values:
+Stone	: 1278
+Water	: 1168
+Wood	: 965
+
+Avrg:
+Stone	: 709
+Water	: 660
+Wood	: 547
+
+------------------------------------------------------
+
+There is a clear difference between A and B aswell as AB and C in both resource end values as well as resource average values.
+And altough this difference is clear, the graph curves of the a averages shows a clear and similar trend in all three cases.
+
+This, in my opinion shows that in the simulation created sets can be used to train the prediction system on its basis.

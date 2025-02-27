@@ -1,0 +1,7 @@
+- Die Plot Datas werden in unter ihre Kategorien unter aktivierung der diversen systeme eingeteilt
+- Alle Test Daten werden mit dem selben KI Attribut Library Layout erstellt (Diese sind aus dem Data Table zu entnehmen)
+- Alle Forex Daten basieren auf dem Forex EUR/USD D1 Wechselkurs als gewichtung
+- Die Average stellen sich zusammen aus 20 Tables á 1000 Plots
+- Zu den erfassten Daten zählen:
+	-> Plottet Data welche den resourcenpreis durchschnitt aller Test Table zu jedem Plot punkt darstellt
+	-> Der totale resourcenpreis durchschnitt aller resourcen
